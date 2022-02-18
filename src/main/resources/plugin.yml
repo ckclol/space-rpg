@@ -1,0 +1,4 @@
+name: SpaceRPG
+version: '${project.version}'
+main: rpg.spacerpg.SpaceRPG
+api-version: 1.18
